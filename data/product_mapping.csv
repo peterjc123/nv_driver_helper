@@ -1,0 +1,298 @@
+pt,pst,pf,ptid,pstid,pfid
+TITAN,NVIDIA TITAN Series,NVIDIA TITAN RTX,11,106,885
+TITAN,NVIDIA TITAN Series,NVIDIA TITAN V,11,106,861
+TITAN,NVIDIA TITAN Series,NVIDIA TITAN Xp,11,106,850
+TITAN,NVIDIA TITAN Series,NVIDIA TITAN X (Pascal),11,106,818
+TITAN,NVIDIA TITAN Series,GeForce GTX TITAN X,11,106,766
+TITAN,NVIDIA TITAN Series,GeForce GTX TITAN,11,106,695
+TITAN,NVIDIA TITAN Series,GeForce GTX TITAN Black,11,106,729
+TITAN,NVIDIA TITAN Series,GeForce GTX TITAN Z,11,106,744
+GeForce,GeForce RTX 30 Series (Notebooks),GeForce RTX 3080 Laptop GPU,1,123,938
+GeForce,GeForce RTX 30 Series (Notebooks),GeForce RTX 3070 Laptop GPU,1,123,939
+GeForce,GeForce RTX 30 Series (Notebooks),GeForce RTX 3060 Laptop GPU,1,123,940
+GeForce,GeForce RTX 30 Series (Notebooks),GeForce RTX 3050 Ti Laptop GPU,1,123,962
+GeForce,GeForce RTX 30 Series (Notebooks),GeForce RTX 3050 Laptop GPU,1,123,963
+GeForce,GeForce RTX 30 Series,GeForce RTX 3090,1,120,930
+GeForce,GeForce RTX 30 Series,GeForce RTX 3080 Ti,1,120,964
+GeForce,GeForce RTX 30 Series,GeForce RTX 3080,1,120,929
+GeForce,GeForce RTX 30 Series,GeForce RTX 3070 Ti,1,120,965
+GeForce,GeForce RTX 30 Series,GeForce RTX 3070,1,120,933
+GeForce,GeForce RTX 30 Series,GeForce RTX 3060 Ti,1,120,934
+GeForce,GeForce RTX 30 Series,GeForce RTX 3060,1,120,942
+GeForce,GeForce RTX 20 Series (Notebooks),GeForce RTX 2080 SUPER,1,111,919
+GeForce,GeForce RTX 20 Series (Notebooks),GeForce RTX 2080,1,111,890
+GeForce,GeForce RTX 20 Series (Notebooks),GeForce RTX 2070 SUPER,1,111,920
+GeForce,GeForce RTX 20 Series (Notebooks),GeForce RTX 2070,1,111,889
+GeForce,GeForce RTX 20 Series (Notebooks),GeForce RTX 2060,1,111,888
+GeForce,GeForce RTX 20 Series,GeForce RTX 2080 Ti,1,107,877
+GeForce,GeForce RTX 20 Series,GeForce RTX 2080 SUPER,1,107,904
+GeForce,GeForce RTX 20 Series,GeForce RTX 2080,1,107,879
+GeForce,GeForce RTX 20 Series,GeForce RTX 2070 SUPER,1,107,903
+GeForce,GeForce RTX 20 Series,GeForce RTX 2070,1,107,880
+GeForce,GeForce RTX 20 Series,GeForce RTX 2060 SUPER,1,107,902
+GeForce,GeForce RTX 20 Series,GeForce RTX 2060,1,107,887
+GeForce,GeForce MX400 Series (Notebooks),GeForce MX450,1,121,931
+GeForce,GeForce MX300 Series (Notebooks),GeForce MX350,1,117,918
+GeForce,GeForce MX300 Series (Notebooks),GeForce MX330,1,117,917
+GeForce,GeForce MX200 Series (Notebooks),GeForce MX250,1,113,894
+GeForce,GeForce MX200 Series (Notebooks),GeForce MX230,1,113,893
+GeForce,GeForce MX100 Series (Notebook),GeForce MX150,1,104,853
+GeForce,GeForce MX100 Series (Notebook),GeForce MX130,1,104,862
+GeForce,GeForce MX100 Series (Notebook),GeForce MX110,1,104,863
+GeForce,GeForce GTX 16 Series (Notebooks),GeForce GTX 1660 Ti,1,115,899
+GeForce,GeForce GTX 16 Series (Notebooks),GeForce GTX 1650 Ti,1,115,921
+GeForce,GeForce GTX 16 Series (Notebooks),GeForce GTX 1650,1,115,898
+GeForce,GeForce 16 Series,GeForce GTX 1660 SUPER,1,112,910
+GeForce,GeForce 16 Series,GeForce GTX 1650 SUPER,1,112,911
+GeForce,GeForce 16 Series,GeForce GTX 1660 Ti,1,112,892
+GeForce,GeForce 16 Series,GeForce GTX 1660,1,112,895
+GeForce,GeForce 16 Series,GeForce GTX 1650,1,112,897
+GeForce,GeForce 10 Series,GeForce GTX 1080 Ti,1,101,845
+GeForce,GeForce 10 Series,GeForce GTX 1080,1,101,815
+GeForce,GeForce 10 Series,GeForce GTX 1070 Ti,1,101,859
+GeForce,GeForce 10 Series,GeForce GTX 1070,1,101,816
+GeForce,GeForce 10 Series,GeForce GTX 1060,1,101,817
+GeForce,GeForce 10 Series,GeForce GTX 1050 Ti,1,101,825
+GeForce,GeForce 10 Series,GeForce GTX 1050,1,101,826
+GeForce,GeForce 10 Series,GeForce GT 1030,1,101,852
+GeForce,GeForce 10 Series,GeForce GT 1010,1,101,936
+GeForce,GeForce 10 Series (Notebooks),GeForce GTX 1080,1,102,819
+GeForce,GeForce 10 Series (Notebooks),GeForce GTX 1070,1,102,820
+GeForce,GeForce 10 Series (Notebooks),GeForce GTX 1060,1,102,821
+GeForce,GeForce 10 Series (Notebooks),GeForce GTX 1050 Ti,1,102,836
+GeForce,GeForce 10 Series (Notebooks),GeForce GTX 1050,1,102,837
+GeForce,GeForce 900 Series,GeForce GTX 980 Ti,1,98,778
+GeForce,GeForce 900 Series,GeForce GTX 980,1,98,755
+GeForce,GeForce 900 Series,GeForce GTX 970,1,98,756
+GeForce,GeForce 900 Series,GeForce GTX 960,1,98,764
+GeForce,GeForce 900 Series,GeForce GTX 950,1,98,782
+GeForce,GeForce 900M Series (Notebooks),GeForce GTX 980,1,99,785
+GeForce,GeForce 900M Series (Notebooks),GeForce GTX 980M,1,99,757
+GeForce,GeForce 900M Series (Notebooks),GeForce GTX 970M,1,99,758
+GeForce,GeForce 900M Series (Notebooks),GeForce GTX 965M,1,99,765
+GeForce,GeForce 900M Series (Notebooks),GeForce GTX 960M,1,99,769
+GeForce,GeForce 900M Series (Notebooks),GeForce GTX 950M,1,99,770
+GeForce,GeForce 900M Series (Notebooks),GeForce 945M,1,99,795
+GeForce,GeForce 900M Series (Notebooks),GeForce 940MX,1,99,796
+GeForce,GeForce 900M Series (Notebooks),GeForce 930MX,1,99,807
+GeForce,GeForce 900M Series (Notebooks),GeForce 920MX,1,99,808
+GeForce,GeForce 900M Series (Notebooks),GeForce 940M,1,99,771
+GeForce,GeForce 900M Series (Notebooks),GeForce 930M,1,99,772
+GeForce,GeForce 900M Series (Notebooks),GeForce 920M,1,99,773
+GeForce,GeForce 900M Series (Notebooks),GeForce 910M,1,99,779
+GeForce,GeForce 800M Series (Notebooks),GeForce GTX 880M,1,97,734
+GeForce,GeForce 800M Series (Notebooks),GeForce GTX 870M,1,97,735
+GeForce,GeForce 800M Series (Notebooks),GeForce GTX 860M,1,97,736
+GeForce,GeForce 800M Series (Notebooks),GeForce GTX 850M,1,97,737
+GeForce,GeForce 800M Series (Notebooks),GeForce 845M,1,97,805
+GeForce,GeForce 800M Series (Notebooks),GeForce 840M,1,97,738
+GeForce,GeForce 800M Series (Notebooks),GeForce 830M,1,97,739
+GeForce,GeForce 800M Series (Notebooks),GeForce 825M,1,97,804
+GeForce,GeForce 800M Series (Notebooks),GeForce 820M,1,97,726
+GeForce,GeForce 800M Series (Notebooks),GeForce 810M,1,97,759
+GeForce,GeForce 800M Series (Notebooks),GeForce 800M,1,97,797
+GeForce,GeForce 700 Series,GeForce GTX 780 Ti,1,95,712
+GeForce,GeForce 700 Series,GeForce GTX 780,1,95,691
+GeForce,GeForce 700 Series,GeForce GTX 770,1,95,694
+GeForce,GeForce 700 Series,GeForce GTX 760,1,95,703
+GeForce,GeForce 700 Series,GeForce GTX 760 Ti (OEM),1,95,711
+GeForce,GeForce 700 Series,GeForce GTX 750 Ti,1,95,727
+GeForce,GeForce 700 Series,GeForce GTX 750,1,95,728
+GeForce,GeForce 700 Series,GeForce GTX 745,1,95,730
+GeForce,GeForce 700 Series,GeForce GT 740,1,95,745
+GeForce,GeForce 700 Series,GeForce GT 730,1,95,746
+GeForce,GeForce 700 Series,GeForce GT 720,1,95,754
+GeForce,GeForce 700 Series,GeForce GT 710,1,95,742
+GeForce,GeForce 700 Series,GeForce GT 705,1,95,761
+GeForce,GeForce 700M Series (Notebooks),GeForce GTX 780M,1,92,700
+GeForce,GeForce 700M Series (Notebooks),GeForce GTX 775M,1,92,740
+GeForce,GeForce 700M Series (Notebooks),GeForce GTX 770M,1,92,702
+GeForce,GeForce 700M Series (Notebooks),GeForce GTX 765M,1,92,701
+GeForce,GeForce 700M Series (Notebooks),GeForce GTX 760M,1,92,699
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 755M,1,92,707
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 750M,1,92,690
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 745M,1,92,689
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 740M,1,92,686
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 735M,1,92,688
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 730M,1,92,672
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 720M,1,92,687
+GeForce,GeForce 700M Series (Notebooks),GeForce GT 710M,1,92,798
+GeForce,GeForce 700M Series (Notebooks),GeForce 720M,1,92,803
+GeForce,GeForce 700M Series (Notebooks),GeForce 710M,1,92,680
+GeForce,GeForce 700M Series (Notebooks),GeForce 705M,1,92,775
+GeForce,GeForce 600 Series,GeForce GTX 690,1,85,627
+GeForce,GeForce 600 Series,GeForce GTX 680,1,85,610
+GeForce,GeForce 600 Series,GeForce GTX 670,1,85,629
+GeForce,GeForce 600 Series,GeForce GTX 660 Ti,1,85,653
+GeForce,GeForce 600 Series,GeForce GTX 660,1,85,660
+GeForce,GeForce 600 Series,GeForce GTX 650 Ti BOOST,1,85,683
+GeForce,GeForce 600 Series,GeForce GTX 650 Ti,1,85,666
+GeForce,GeForce 600 Series,GeForce GTX 650,1,85,661
+GeForce,GeForce 600 Series,GeForce GTX 645,1,85,731
+GeForce,GeForce 600 Series,GeForce GT 645,1,85,633
+GeForce,GeForce 600 Series,GeForce GT 640,1,85,632
+GeForce,GeForce 600 Series,GeForce GT 635,1,85,685
+GeForce,GeForce 600 Series,GeForce GT 630,1,85,631
+GeForce,GeForce 600 Series,GeForce GT 620,1,85,611
+GeForce,GeForce 600 Series,GeForce GT 610,1,85,630
+GeForce,GeForce 600 Series,GeForce 605,1,85,624
+GeForce,GeForce 600M Series (Notebooks),GeForce GTX 680MX,1,84,677
+GeForce,GeForce 600M Series (Notebooks),GeForce GTX 680M,1,84,646
+GeForce,GeForce 600M Series (Notebooks),GeForce GTX 675MX,1,84,664
+GeForce,GeForce 600M Series (Notebooks),GeForce GTX 675M,1,84,638
+GeForce,GeForce 600M Series (Notebooks),GeForce GTX 670MX,1,84,663
+GeForce,GeForce 600M Series (Notebooks),GeForce GTX 670M,1,84,639
+GeForce,GeForce 600M Series (Notebooks),GeForce GTX 660M,1,84,637
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 650M,1,84,636
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 645M,1,84,662
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 640M,1,84,635
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 640M LE,1,84,644
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 635M,1,84,619
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 630M,1,84,612
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 625M,1,84,671
+GeForce,GeForce 600M Series (Notebooks),GeForce GT 620M,1,84,634
+GeForce,GeForce 600M Series (Notebooks),GeForce 610M,1,84,620
+GeForce,GeForce 500M Series (Notebooks),GeForce GTX 580M,1,78,601
+GeForce,GeForce 500M Series (Notebooks),GeForce GTX 570M,1,78,603
+GeForce,GeForce 500M Series (Notebooks),GeForce GTX 560M,1,78,561
+GeForce,GeForce 500M Series (Notebooks),GeForce GT 555M,1,78,552
+GeForce,GeForce 500M Series (Notebooks),GeForce GT 550M,1,78,551
+GeForce,GeForce 500M Series (Notebooks),GeForce GT 540M,1,78,550
+GeForce,GeForce 500M Series (Notebooks),GeForce GT 525M,1,78,549
+GeForce,GeForce 500M Series (Notebooks),GeForce GT 520M,1,78,548
+GeForce,GeForce 500M Series (Notebooks),GeForce GT 520MX,1,78,602
+GeForce,GeForce 400 Series,GeForce GTX 480,1,71,490
+GeForce,GeForce 400 Series,GeForce GTX 470,1,71,491
+GeForce,GeForce 400 Series,GeForce GTX 465,1,71,498
+GeForce,GeForce 400 Series,GeForce GTX 460 SE v2,1,71,600
+GeForce,GeForce 400 Series,GeForce GTX 460 SE,1,71,530
+GeForce,GeForce 400 Series,GeForce GTX 460,1,71,499
+GeForce,GeForce 400 Series,GeForce GTS 450,1,71,514
+GeForce,GeForce 400 Series,GeForce GT 440,1,71,541
+GeForce,GeForce 400 Series,GeForce GT 430,1,71,516
+GeForce,GeForce 400 Series,GeForce GT 420,1,71,538
+GeForce,GeForce 400 Series,GeForce 405,1,71,572
+GeForce,GeForce 200 Series,GeForce GTX 295,1,52,376
+GeForce,GeForce 200 Series,GeForce GTX 285,1,52,377
+GeForce,GeForce 200 Series,GeForce GTX 280,1,52,299
+GeForce,GeForce 200 Series,GeForce GTX 275,1,52,416
+GeForce,GeForce 200 Series,GeForce GTX 260,1,52,300
+GeForce,GeForce 200 Series,GeForce GTS 250,1,52,399
+GeForce,GeForce 200 Series,GeForce GTS 240,1,52,450
+GeForce,GeForce 200 Series,GeForce GT 230,1,52,449
+GeForce,GeForce 200 Series,GeForce GT 240,1,52,470
+GeForce,GeForce 200 Series,GeForce GT 220,1,52,448
+GeForce,GeForce 200 Series,GeForce G210,1,52,447
+GeForce,GeForce 200 Series,GeForce 210,1,52,453
+GeForce,GeForce 200 Series,GeForce 205,1,52,471
+GeForce,GeForce 100 Series,GeForce GT 140,1,59,400
+GeForce,GeForce 100 Series,GeForce GT 130,1,59,401
+GeForce,GeForce 100 Series,GeForce GT 120,1,59,402
+GeForce,GeForce 100 Series,GeForce G100,1,59,415
+GeForce,GeForce 8 Series,GeForce 8800 Ultra,1,1,8
+GeForce,GeForce 8 Series,GeForce 8800 GTX,1,1,7
+GeForce,GeForce 8 Series,GeForce 8800 GTS 512,1,1,270
+GeForce,GeForce 8 Series,GeForce 8800 GTS,1,1,6
+GeForce,GeForce 8 Series,GeForce 8800 GT,1,1,258
+GeForce,GeForce 8 Series,GeForce 8800 GS,1,1,281
+GeForce,GeForce 8 Series,GeForce 8600 GTS,1,1,5
+GeForce,GeForce 8 Series,GeForce 8600 GT,1,1,4
+GeForce,GeForce 8 Series,GeForce 8600 GS,1,1,233
+GeForce,GeForce 8 Series,GeForce 8500 GT,1,1,3
+GeForce,GeForce 8 Series,GeForce 8400 GS,1,1,2
+GeForce,GeForce 8 Series,GeForce 8400 SE,1,1,234
+GeForce,GeForce 8 Series,GeForce 8400,1,1,272
+GeForce,GeForce 8 Series,GeForce 8300 GS,1,1,1
+GeForce,GeForce 8 Series,GeForce 8300,1,1,288
+GeForce,GeForce 8 Series,GeForce 8200,1,1,289
+GeForce,GeForce 8 Series,GeForce 8200 /nForce 730a,1,1,293
+GeForce,GeForce 8 Series,GeForce 8100 /nForce 720a,1,1,290
+GeForce,GeForce 8M Series (Notebooks),GeForce 8800M GTX,1,54,363
+GeForce,GeForce 8M Series (Notebooks),GeForce 8800M GTS,1,54,364
+GeForce,GeForce 8M Series (Notebooks),GeForce 8800M GS,1,54,365
+GeForce,GeForce 8M Series (Notebooks),GeForce 8700M GT,1,54,366
+GeForce,GeForce 8M Series (Notebooks),GeForce 8600M GT,1,54,367
+GeForce,GeForce 8M Series (Notebooks),GeForce 8600M GS,1,54,368
+GeForce,GeForce 8M Series (Notebooks),GeForce 8400M GT,1,54,369
+GeForce,GeForce 8M Series (Notebooks),GeForce 8400M GS,1,54,370
+GeForce,GeForce 8M Series (Notebooks),GeForce 8400M G,1,54,371
+GeForce,GeForce 8M Series (Notebooks),GeForce 8200M G,1,54,385
+GeForce,GeForce 8M Series (Notebooks),GeForce 8200M,1,54,569
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7950 GTX,1,55,372
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7900 GTX,1,55,373
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7900 GS,1,55,375
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7900 SE,1,55,389
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7800 GTX,1,55,374
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7800,1,55,390
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7700,1,55,391
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7600,1,55,392
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7400,1,55,393
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7300,1,55,394
+GeForce,GeForce Go 7 Series (Notebooks),GeForce Go 7200,1,55,395
+GeForce,GeForce Go 7 Series (Notebooks),GeForce 7150M / nForce 630M,1,55,397
+GeForce,GeForce Go 7 Series (Notebooks),GeForce 7000M / nForce 610M,1,55,396
+Legacy,nForce 7 Series,nForce 790i Ultra SLI,4,45,285
+Legacy,nForce 7 Series,nForce 790i SLI,4,45,284
+Legacy,nForce 7 Series,nForce 780i SLI,4,45,273
+Legacy,nForce 7 Series,nForce 760i SLI,4,45,409
+Legacy,nForce 7 Series,nForce 750i SLI,4,45,274
+Legacy,nForce 7 Series,nForce 740i SLI,4,45,403
+Legacy,nForce 7 Series,nForce 730i/Geforce 9400/9300,4,45,320
+Legacy,nForce 7 Series,nForce 720i,4,45,378
+Legacy,nForce 7 Series,nForce 780a SLI,4,45,292
+Legacy,nForce 7 Series,nForce 750a SLI,4,45,404
+Legacy,nForce 7 Series,nForce 740a SLI,4,45,405
+Legacy,nForce 7 Series,nForce 730a/GeForce 8300/8200,4,45,406
+Legacy,nForce 7 Series,nForce 720a - GeForce 8100,4,45,407
+Legacy,nForce 7 Series,nForce 710a,4,45,408
+Legacy,nForce 6 Series,nForce 680i SLI,4,5,177
+Legacy,nForce 6 Series,nForce 680i LT SLI,4,5,178
+Legacy,nForce 6 Series,nForce 650i SLI,4,5,179
+Legacy,nForce 6 Series,nForce 650i Ultra,4,5,180
+Legacy,nForce 6 Series,nForce 630i/GeForce 7150,4,5,255
+Legacy,nForce 6 Series,nForce 630i/GeForce 7100,4,5,256
+Legacy,nForce 6 Series,nForce 610i/GeForce 7050,4,5,257
+Legacy,nForce 6 Series,nForce 680a SLI,4,5,181
+Legacy,nForce 6 Series,nForce 630a / GeForce 7050,4,5,242
+Legacy,nForce 6 Series,nForce 630a / GeForce 7025,4,5,243
+Legacy,nForce 5 Series,nForce 590 SLI Intel,4,6,182
+Legacy,nForce 5 Series,nForce 570 SLI Intel,4,6,183
+Legacy,nForce 5 Series,nForce 590 SLI AMD,4,6,184
+Legacy,nForce 5 Series,nForce 570 SLI AMD,4,6,185
+Legacy,nForce 5 Series,nForce 570 Ultra AMD,4,6,186
+Legacy,nForce 5 Series,nForce 560,4,6,224
+Legacy,nForce 5 Series,nForce 550,4,6,187
+Legacy,nForce 5 Series,nForce 520,4,6,190
+Legacy,GeForce 2 GTS/Ultra/Pro,GeForce2 GTS/Pro,4,20,152
+Legacy,GeForce 2 GTS/Ultra/Pro,GeForce2 Ti,4,20,153
+Legacy,GeForce 2 GTS/Ultra/Pro,GeForce2 Ultra,4,20,154
+Legacy,GeForce 2 MX Series,GeForce2 Integrated GPU,4,21,155
+Legacy,GeForce 2 MX Series,GeForce2 MX 100/200,4,21,156
+Legacy,GeForce 2 MX Series,GeForce2 MX/MX 400,4,21,157
+Legacy,nForce 9 Series,nForce 980a SLI,4,58,398
+Legacy,nForce 4 Series,nForce4 SLI X16 Intel,4,7,191
+Legacy,nForce 4 Series,nForce4 SLI Intel,4,7,192
+Legacy,nForce 4 Series,nForce4 SLI XE Intel,4,7,193
+Legacy,nForce 4 Series,nForce4 Ultra Intel,4,7,194
+Legacy,nForce 4 Series,nForce4 SLI X16 AMD,4,7,195
+Legacy,nForce 4 Series,nForce4 SLI AMD,4,7,196
+Legacy,nForce 4 Series,nForce4 Ultra AMD,4,7,197
+Legacy,nForce 4 Series,nForce4 AMD,4,7,198
+Legacy,nForce 4 Series,nForce 430 / GeForce 6150,4,7,200
+Legacy,nForce 4 Series,nForce 430 / GeForce 6150LE,4,7,201
+Legacy,nForce 4 Series,nForce 410 / GeForce 6150LE,4,7,202
+Legacy,nForce 4 Series,nForce 430 / GeForce 6100,4,7,203
+Legacy,nForce 4 Series,nForce 410 / GeForce 6100,4,7,204
+Legacy,nForce 4 Series,nForce 430 / GeForce 6150SE,4,7,205
+Legacy,nForce 4 Series,nForce 430 / Geforce 6100,4,7,206
+Legacy,nForce 4 Series,nForce 405 / Geforce 6100,4,7,207
+Legacy,nForce 4 Series,nForce 400 / Geforce 6100,4,7,208
+Legacy,nForce 4 Series,nForce 420 / Geforce 6100,4,7,209
+3D Vision,3D Vision,Full driver CD for GeForce,5,57,381
+3D Vision,3D Vision,Full driver CD for Notebook PCs,5,57,488
+3D Vision,3D Vision,3D Vision driver for GeForce,5,57,432
+3D Vision,3D Vision,3D Vision driver for Notebook,5,57,555
+3D Vision,3D Vision,3D Vision driver for Quadro,5,57,452
+3D Vision,3D Vision,3D Vision Video Player,5,57,451
+3D Vision,3D Vision Pro,3D Vision Pro driver ,5,64,535
+3D Vision,3D Vision Pro,3D Vision Pro Video Player,5,64,536
