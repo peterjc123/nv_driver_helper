@@ -198,6 +198,23 @@ async fn get_latest_version_info(url: &str) -> Result<serde_json::Value, reqwest
     reqwest::Client::new().get(url).send().await?.json().await
 }
 
+async fn get_region_html() -> Result<String, reqwest::Error> {
+    reqwest::Client::new()
+        .get("https://check-host.net/ip/widget.js")
+        .send()
+        .await?
+        .text()
+        .await
+}
+
+async fn get_region() -> String {
+    let region_text = get_region_html().await.unwrap_or_else(|_| "".into());
+    region_text.find("alt=\\\"").map_or("".into(), |i| {
+        let region = &region_text[i + 6..i + 8];
+        String::from(region)
+    })
+}
+
 fn load_config(selected_items: &mut Vec<i32>) -> Result<(), confy::ConfyError> {
     let cfg: Config = confy::load("nv_driver_helper")?;
     for (i, s) in selected_items.iter_mut().enumerate() {
@@ -394,10 +411,17 @@ async fn main() {
                         psid, pfid, osid, langid, typeid
                     );
 
-                    let url = format!("https://gfwsl.geforce.com/services_toolkit/services/com/nvidia/services/\
+                    let region = get_region().await;
+
+                    let suffix = match region.as_str() {
+                        "CN" => "cn",
+                        _ => "com",
+                    };
+
+                    let url = format!("https://gfwsl.geforce.{}/services_toolkit/services/com/nvidia/services/\
                                               AjaxDriverService.php?func=DriverManualLookup&psid={}&pfid={}&osID={}&la\
                                               nguageCode={}&beta=0&isWHQL=0&dltype=-1&dch=1&upCRD={}&qnf=0&sort1=0&nu\
-                                              mberOfResults=100", psid, pfid, osid, langid, typeid);
+                                              mberOfResults=100", suffix, psid, pfid, osid, langid, typeid);
 
                     println!("{}", url);
 
